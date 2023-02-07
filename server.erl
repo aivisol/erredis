@@ -1,4 +1,4 @@
-% comment
+% server
 -module(server).
 -export([server/0]).
 
